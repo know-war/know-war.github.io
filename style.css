@@ -11,7 +11,7 @@ body {
 }
 *::selection {
     background: rgb(255, 251, 0);
-    color: white;
+    color: black;
 }
 .root {
     position: absolute;
@@ -452,3 +452,4 @@ pre {
     color: #ffffff; /* 代码块字体颜色 */
     font-family: 'Cascadia Mono', Consolas, monospace;
 }
+
